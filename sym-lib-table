@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fsae")(type "KiCad")(uri "${KIPRJMOD}/fsae.kicad_sym")(options "")(descr ""))
+)
