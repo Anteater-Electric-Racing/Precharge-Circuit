@@ -4328,16 +4328,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 199.39) (xy 147.32 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18cc924b-f103-429e-af69-7a198e33a1ff")
-	)
-	(wire
-		(pts
 			(xy 120.65 76.2) (xy 115.57 76.2)
 		)
 		(stroke
@@ -4458,16 +4448,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 186.69) (xy 147.32 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2784721f-3434-4d54-b7ca-26f3def38b01")
-	)
-	(wire
-		(pts
 			(xy 331.47 123.19) (xy 335.28 123.19)
 		)
 		(stroke
@@ -4505,6 +4485,16 @@
 			(type default)
 		)
 		(uuid "3467df4a-64d5-4d68-a4b8-4a276addd336")
+	)
+	(wire
+		(pts
+			(xy 175.26 200.66) (xy 173.99 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34939f79-d990-4f78-ab56-f458bc880e9f")
 	)
 	(wire
 		(pts
@@ -4718,6 +4708,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 185.42) (xy 161.29 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e97c517-61c9-42d2-a1ef-2dbada7d18a2")
+	)
+	(wire
+		(pts
 			(xy 317.5 123.19) (xy 317.5 133.35)
 		)
 		(stroke
@@ -4725,16 +4725,6 @@
 			(type default)
 		)
 		(uuid "555dcc24-a73c-43a9-8a45-c87130a4360f")
-	)
-	(wire
-		(pts
-			(xy 172.72 199.39) (xy 162.56 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57b455df-438b-4049-853b-106afbc026e1")
 	)
 	(wire
 		(pts
@@ -5008,6 +4998,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 195.58) (xy 156.21 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b38d8b2-3609-4104-9c79-6402818206b5")
+	)
+	(wire
+		(pts
 			(xy 120.65 45.72) (xy 115.57 45.72)
 		)
 		(stroke
@@ -5118,16 +5118,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 204.47) (xy 180.34 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f4672b3-adc8-4023-80c1-b0fccdfd0ff4")
-	)
-	(wire
-		(pts
 			(xy 250.19 52.07) (xy 265.43 52.07)
 		)
 		(stroke
@@ -5165,6 +5155,16 @@
 			(type default)
 		)
 		(uuid "8febf713-1b64-4aad-af65-679002f317e3")
+	)
+	(wire
+		(pts
+			(xy 140.97 195.58) (xy 137.16 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "924a1242-3345-4c54-82eb-0713894fa63e")
 	)
 	(wire
 		(pts
@@ -5548,16 +5548,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 189.23) (xy 167.64 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d98180a0-405d-4ea3-a209-5948bb286202")
-	)
-	(wire
-		(pts
 			(xy 322.58 76.2) (xy 330.2 76.2)
 		)
 		(stroke
@@ -5565,6 +5555,16 @@
 			(type default)
 		)
 		(uuid "dab47e01-4067-4787-80ec-d338010eec84")
+	)
+	(wire
+		(pts
+			(xy 130.81 182.88) (xy 140.97 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6b08bf-1169-4cd4-b126-2ad5eefdc110")
 	)
 	(wire
 		(pts
@@ -5929,6 +5929,17 @@
 		)
 		(uuid "7693c919-8328-4fd7-b1ec-8da6ee8e0f9f")
 	)
+	(label "AIR+"
+		(at 146.05 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "792da4b7-e656-45c2-9cf9-ada9321396ae")
+	)
 	(label "CANL"
 		(at 194.31 69.85 180)
 		(fields_autoplaced yes)
@@ -5939,6 +5950,17 @@
 			(justify right bottom)
 		)
 		(uuid "8e48b7e2-9106-4351-b10c-0f2f4a01ad49")
+	)
+	(label "Precharge"
+		(at 73.66 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9adafa93-c560-40f2-8b85-3d2d80bb1964")
 	)
 	(label "CANTX"
 		(at 123.19 68.58 180)
@@ -6030,6 +6052,28 @@
 		(uuid "05ca7244-ff4e-485a-bebf-8f742d65b4a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 49.6291 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Vin_Ts"
+		(shape input)
+		(at 130.81 182.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2c93b46c-f0a0-4720-a62f-545a2709f823")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 122.0191 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6149,28 +6193,6 @@
 			)
 		)
 	)
-	(global_label "SHTDN_OUT"
-		(shape input)
-		(at 167.64 189.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8bb1f762-dd69-43d8-9466-701155001dfa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.3295 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Shutdown_in"
 		(shape input)
 		(at 67.31 195.58 180)
@@ -6215,24 +6237,46 @@
 			)
 		)
 	)
-	(global_label "Shutdown_in"
+	(global_label "Vin_Accu"
 		(shape input)
-		(at 142.24 199.39 180)
+		(at 161.29 185.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "a250f3df-61f8-46a0-a6c1-a002c2509a6b")
+		(uuid "a00bfd60-e154-4efa-83b0-7ffc680a3b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.5227 199.39 0)
+			(at 172.5 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "AIR+"
+		(shape input)
+		(at 175.26 200.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a12bc76b-a4f3-451b-ad86-e8dafe24f407")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.781 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6259,24 +6303,24 @@
 			)
 		)
 	)
-	(global_label "AIR+"
+	(global_label "Shutdown_in"
 		(shape input)
-		(at 181.61 204.47 0)
+		(at 137.16 195.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "d7adc675-ef01-4841-b7bb-9d6a7af3cd26")
+		(uuid "be15ad04-3219-4766-aa82-bd3e61c1d688")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 189.131 204.47 0)
+			(at 122.4427 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7557,72 +7601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 172.72 209.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3437dd52-0687-4776-9719-793b091730ae")
-		(property "Reference" "#PWR034"
-			(at 172.72 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GLV-"
-			(at 172.72 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 172.72 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "59b00dbe-8fde-4c30-9ca9-240f732e61ac")
-		)
-		(instances
-			(project "pcc_v0.1"
-				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 186.69 71.12 0)
 		(mirror y)
@@ -8164,6 +8142,72 @@
 			(project ""
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 166.37 205.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49a9c783-c56c-45d0-b954-db157d033896")
+		(property "Reference" "#PWR035"
+			(at 166.37 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GLV-"
+			(at 166.37 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 166.37 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b39bd18b-5945-4c87-be7b-9ff7cfbf5109")
+		)
+		(instances
+			(project "pcc_v0.1"
+				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -9400,84 +9444,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Relay:SANYOU_SRD_Form_C")
-		(at 154.94 194.31 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a60442c-e484-4991-90d5-9f69a2123fdb")
-		(property "Reference" "K2"
-			(at 154.94 179.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "CPC1706"
-			(at 154.94 181.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
-			(at 156.21 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
-			(at 154.94 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Sanyo SRD relay, Single Pole Miniature Power Relay,"
-			(at 154.94 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "4caefb4f-6155-4c34-b950-78c9c4d728d5")
-		)
-		(pin "4"
-			(uuid "fc4c9ec5-429f-4746-86e3-f1369cf7720e")
-		)
-		(pin "5"
-			(uuid "5dd12b9e-0122-4f30-9b90-0157adb24127")
-		)
-		(pin "2"
-			(uuid "dfc5eef9-466d-4429-883f-d863afdbbb7e")
-		)
-		(pin "1"
-			(uuid "a78943fc-cde4-44b9-a230-3b7222ae5fa9")
-		)
-		(instances
-			(project "pcc_v0.1"
-				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
-					(reference "K2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 358.14 53.34 0)
 		(unit 1)
@@ -9542,6 +9508,84 @@
 			(project ""
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Relay:SANYOU_SRD_Form_C")
+		(at 148.59 190.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e3163ba-42f4-4af6-a98a-7b15f16eb01a")
+		(property "Reference" "K2"
+			(at 148.59 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gigavac GV242BAB"
+			(at 148.59 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
+			(at 149.86 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+			(at 148.59 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Sanyo SRD relay, Single Pole Miniature Power Relay,"
+			(at 148.59 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "626a8e20-f8d2-4ba5-be62-be564b6cda54")
+		)
+		(pin "4"
+			(uuid "5fb49491-1946-48f1-85ed-c915db1b5ebf")
+		)
+		(pin "5"
+			(uuid "9ee0d39b-af3b-4bc3-bf99-f6a040ef4355")
+		)
+		(pin "2"
+			(uuid "eb675af8-517b-48cd-9627-ca4e5192cd3a")
+		)
+		(pin "1"
+			(uuid "6ca4171e-4691-4993-9f4c-c232547e2267")
+		)
+		(instances
+			(project "pcc_v0.1"
+				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
+					(reference "K2")
 					(unit 1)
 				)
 			)
@@ -9975,72 +10019,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 139.7 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ff489fe-9566-4933-af94-c0869f3b4961")
-		(property "Reference" "#PWR035"
-			(at 139.7 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 139.7 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.7 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 139.7 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87dd03f0-5c77-44d8-b124-3ec8ceeb3149")
-		)
-		(instances
-			(project ""
-				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 341.63 115.57 90)
 		(unit 1)
@@ -10255,6 +10233,82 @@
 			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:BS108")
+		(at 168.91 200.66 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9fd816f3-c4ae-4e21-9f47-7330bbe5de8a")
+		(property "Reference" "Q3"
+			(at 162.56 199.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BS108"
+			(at 162.56 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 163.83 198.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.redrok.com/MOSFET_BS108_200V_250mA_8O_Vth1.5_TO-92.PDF"
+			(at 163.83 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.25A Id, 200V Vds, N-Channel MOSFET, TO-92"
+			(at 168.91 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0fc6f76b-c4b0-402e-94a1-b29c2fa8a9e2")
+		)
+		(pin "1"
+			(uuid "f77b505b-f1ff-499d-bd6f-7ff445b943fb")
+		)
+		(pin "3"
+			(uuid "d8e33c71-a2c5-4326-9596-bae1b7d4a348")
+		)
+		(instances
+			(project "pcc_v0.1"
+				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -12443,82 +12497,6 @@
 			(project ""
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:BS108")
-		(at 175.26 204.47 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f825bde0-148d-44ac-a951-2156c97dd70d")
-		(property "Reference" "Q2"
-			(at 168.91 203.1999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BS108"
-			(at 168.91 205.7399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 170.18 202.565 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.redrok.com/MOSFET_BS108_200V_250mA_8O_Vth1.5_TO-92.PDF"
-			(at 170.18 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.25A Id, 200V Vds, N-Channel MOSFET, TO-92"
-			(at 175.26 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "420903c7-4615-4f4c-bc41-0bb942557164")
-		)
-		(pin "1"
-			(uuid "37cb350b-ff92-45ae-a250-32eccd11c89a")
-		)
-		(pin "3"
-			(uuid "b768148f-7c54-4f1b-a7ce-958d7890ddd8")
-		)
-		(instances
-			(project "pcc_v0.1"
-				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
