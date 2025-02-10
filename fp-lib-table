@@ -6,4 +6,5 @@
   (lib (name "precharge relay spdt")(type "KiCad")(uri "/Users/billyuan/Downloads/KiCADv6 3/footprints.pretty")(options "")(descr ""))
   (lib (name "pmos")(type "KiCad")(uri "/Users/billyuan/Downloads/pmos/pmos.pretty")(options "")(descr ""))
   (lib (name "precharge relay 2")(type "KiCad")(uri "/Users/billyuan/Downloads/LIB_G9KB-1A_DC12/G9KB-1A_DC12/KiCad")(options "")(descr ""))
+  (lib (name "PCN_112D3HMZ")(type "KiCad")(uri "/Users/billyuan/Downloads/PCN_112D3HMZ/PCN_112D3HMZ.pretty")(options "")(descr ""))
 )

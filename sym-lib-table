@@ -8,4 +8,5 @@
   (lib (name "2025-01-28_22-52-07")(type "KiCad")(uri "/Users/billyuan/Downloads/pmos/2025-01-28_22-52-07.kicad_sym")(options "")(descr ""))
   (lib (name "2025-01-28_22-57-52")(type "KiCad")(uri "/Users/billyuan/Downloads/KiCADv6 4/2025-01-28_22-57-52.kicad_sym")(options "")(descr ""))
   (lib (name "G9KB-1A_DC12")(type "KiCad")(uri "/Users/billyuan/Downloads/LIB_G9KB-1A_DC12/G9KB-1A_DC12/KiCad/G9KB-1A_DC12.kicad_sym")(options "")(descr ""))
+  (lib (name "PCN_112D3HMZ")(type "KiCad")(uri "/Users/billyuan/Downloads/PCN_112D3HMZ/PCN_112D3HMZ.kicad_sym")(options "")(descr ""))
 )
