@@ -202,7 +202,7 @@
 		(descr "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-02A2, example for new mpn: 39-28-902x, 1 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039289068_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Mini-Fit_Jr side entryplastic_peg")
 		(property "Reference" "J9"
-			(at 0 -3.45 360)
+			(at 0 -3.45 0)
 			(layer "F.SilkS")
 			(uuid "4a15b2a8-f70f-433a-a59a-617f762e75f7")
 			(effects
@@ -213,7 +213,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 0 9.95 360)
+			(at 0 9.95 0)
 			(layer "F.Fab")
 			(uuid "78a4fbd3-c87b-491a-b2ab-fb90b49800c8")
 			(effects
@@ -782,7 +782,7 @@
 			(uuid "800bc6d6-8901-4bde-abdd-b097746c998f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.55 360)
+			(at 0 -1.55 0)
 			(layer "F.Fab")
 			(uuid "ad66b777-dfc0-4a87-8b24-91e911b0e05e")
 			(effects
@@ -1297,7 +1297,7 @@
 			)
 		)
 		(property "Footprint" "PCN_112D3HMZ:RELAY_PCN-105D3MHZ_000_TEC"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a52325f0-5de8-46cc-9001-567ad1acab35")
@@ -1309,7 +1309,7 @@
 			)
 		)
 		(property "Datasheet" "PCN-112D3MHZ_000"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d1508cf-08c5-4af0-a223-0a967f69573b")
@@ -1321,7 +1321,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6806a6b2-6278-4eb2-94eb-5ba981f803a6")
@@ -2373,7 +2373,7 @@
 		(descr "Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-06A2, example for new mpn: 39-28-906x, 3 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039289068_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Mini-Fit_Jr side entryplastic_peg")
 		(property "Reference" "J5"
-			(at 4.2 -3.45 360)
+			(at 4.2 -3.45 0)
 			(layer "F.SilkS")
 			(uuid "909e85da-2105-488a-8db4-dd05f52646a1")
 			(effects
@@ -2384,7 +2384,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Socket"
-			(at 3.549747 11.450253 360)
+			(at 3.549747 11.450253 0)
 			(layer "F.Fab")
 			(uuid "63c072ee-c53a-41d6-aab5-7952bdc9c9ec")
 			(effects
@@ -3153,7 +3153,7 @@
 			(uuid "2bd5c177-d03f-4341-9d00-14fcef3de022")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.2 -1.55 360)
+			(at 4.2 -1.55 0)
 			(layer "F.Fab")
 			(uuid "96185e3a-6d31-4c83-8b84-765a21a03706")
 			(effects
@@ -4673,7 +4673,7 @@
 			)
 		)
 		(property "Footprint" "nmos:SOIC_63D8L-7_DIO"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f111a83-4d1f-49c2-be59-3aacd52cdcc7")
@@ -4685,7 +4685,7 @@
 			)
 		)
 		(property "Datasheet" "DMN63D8L-7"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e607ae0a-a555-4cd3-ba0c-14f5d78b3e15")
@@ -4697,7 +4697,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8dae6828-f285-4fd9-a856-2b9e65cdcdbf")
@@ -8107,7 +8107,7 @@
 		(property "Reference" "REF**"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
-			(uuid "d458ac17-db31-4c13-b3dd-15cbcf99e5de")
+			(uuid "860dce3b-00ec-4787-bdf4-35b52fc2ba3a")
 			(effects
 				(font
 					(size 1 1)
@@ -8118,7 +8118,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(uuid "563419c6-fbdd-4b6e-b028-20facba1b386")
+			(uuid "61fd70de-1ddd-4930-add5-aa69d2bb7102")
 			(effects
 				(font
 					(size 1 1)
@@ -8175,7 +8175,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "122fc185-36b8-4bf9-bdf2-27d743d4002a")
+			(uuid "d10e5a7b-a7fa-406d-8020-cb60e05bdfbe")
 		)
 		(fp_circle
 			(center 0 0)
@@ -8186,12 +8186,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b1749fd8-b6d2-428d-bdc7-c8e39f1d644a")
+			(uuid "04352fc9-bcc8-4a7e-a77d-937f63285fec")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "99b3bcab-4af7-4049-af8a-574eaea14731")
+			(uuid "e1ce8202-b0a3-46fa-a3f1-78f5f37b49b2")
 			(effects
 				(font
 					(size 1 1)
@@ -8204,7 +8204,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "c96fa723-a340-4fbf-854c-64c8ad161a83")
+			(uuid "99bfe413-c836-40c4-8a7d-4e731e292311")
 		)
 	)
 	(footprint "Package_SIP:SIP-8_19x3mm_P2.54mm"
@@ -10215,7 +10215,7 @@
 		(property "Reference" "REF**"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
-			(uuid "d458ac17-db31-4c13-b3dd-15cbcf99e5de")
+			(uuid "db34cfe5-10f2-4e93-862a-88485daf80eb")
 			(effects
 				(font
 					(size 1 1)
@@ -10226,7 +10226,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(uuid "563419c6-fbdd-4b6e-b028-20facba1b386")
+			(uuid "d54dd43b-5fa5-4729-b52e-30a508fe15dc")
 			(effects
 				(font
 					(size 1 1)
@@ -10283,7 +10283,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "122fc185-36b8-4bf9-bdf2-27d743d4002a")
+			(uuid "b1066085-ef21-48da-93c8-25bd1f07e77c")
 		)
 		(fp_circle
 			(center 0 0)
@@ -10294,12 +10294,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b1749fd8-b6d2-428d-bdc7-c8e39f1d644a")
+			(uuid "63c1c18d-0012-4d70-ac64-6656722912cd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "99b3bcab-4af7-4049-af8a-574eaea14731")
+			(uuid "e621c8fa-f4f2-4300-9e6c-dadf83e66dff")
 			(effects
 				(font
 					(size 1 1)
@@ -10312,7 +10312,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "c96fa723-a340-4fbf-854c-64c8ad161a83")
+			(uuid "61c0a05a-e594-4799-9cce-31d09f3e2b3a")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
@@ -16277,7 +16277,7 @@
 		(property "Reference" "REF**"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
-			(uuid "d458ac17-db31-4c13-b3dd-15cbcf99e5de")
+			(uuid "f202a4bd-8459-426a-b7c2-cfc7a98513f3")
 			(effects
 				(font
 					(size 1 1)
@@ -16288,7 +16288,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
-			(uuid "563419c6-fbdd-4b6e-b028-20facba1b386")
+			(uuid "a11c87b8-e21b-4b0c-adf7-9d422f68cc7c")
 			(effects
 				(font
 					(size 1 1)
@@ -16345,7 +16345,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "122fc185-36b8-4bf9-bdf2-27d743d4002a")
+			(uuid "d4c97a22-3e41-4462-a5f6-6a038d4e1ad5")
 		)
 		(fp_circle
 			(center 0 0)
@@ -16356,12 +16356,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b1749fd8-b6d2-428d-bdc7-c8e39f1d644a")
+			(uuid "0d34b175-afed-46ec-9d20-313d7fdb65fd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "99b3bcab-4af7-4049-af8a-574eaea14731")
+			(uuid "d078ca08-d780-45dc-a294-cd9606512536")
 			(effects
 				(font
 					(size 1 1)
@@ -16374,7 +16374,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "c96fa723-a340-4fbf-854c-64c8ad161a83")
+			(uuid "58ecb3f4-2eee-43a0-9d06-b21ae8b4806f")
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -17804,7 +17804,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R27"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "b6f7f415-8dac-4e41-ac7d-ed9d5c7cc889")
 			(effects
@@ -17815,7 +17815,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "05b25282-0080-4a91-8f64-ab7c2cfb20b2")
 			(effects
@@ -17970,7 +17970,7 @@
 			(uuid "c4270408-00f4-4140-9532-104c7ab79f88")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a08e71aa-ee74-4f03-a2dc-3f4e675221df")
 			(effects
@@ -18011,14 +18011,24 @@
 		)
 	)
 	(gr_line
-		(start 101.874873 30.799873)
-		(end 102.025126 152.500126)
+		(start 100.424873 30.799873)
+		(end 100.575126 152.500126)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "85a2346b-cfe1-4f52-80f1-fc4b8c447724")
+	)
+	(gr_line
+		(start 104.424873 30.5)
+		(end 104.575126 152.200253)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8f1aa9c8-b61a-42fb-a1c3-d9a1f24c8ddc")
 	)
 	(gr_arc
 		(start 61.35 152.45)
@@ -18104,8 +18114,20 @@
 		(layer "Edge.Cuts")
 		(uuid "fa6306c5-6e00-44f3-8b72-2a96aeae042e")
 	)
+	(gr_text "4mm"
+		(at 100.6 74 0)
+		(layer "F.SilkS")
+		(uuid "27656354-2c9d-4a44-a4ce-665146753f20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "HIGH VOLTAGE\n"
-		(at 103.35 67.05 -90)
+		(at 104.85 67.05 -90)
 		(layer "F.SilkS")
 		(uuid "74efc337-d0df-4561-8bb1-2b115fa3873e")
 		(effects
@@ -18117,7 +18139,7 @@
 		)
 	)
 	(gr_text "LOW VOLTAGE"
-		(at 100.55 97.65 90)
+		(at 99.1 97.65 90)
 		(layer "F.SilkS")
 		(uuid "8312109f-892f-40fa-b9c0-e2198fd8759c")
 		(effects
