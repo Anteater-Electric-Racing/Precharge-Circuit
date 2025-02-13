@@ -7933,6 +7933,28 @@
 			)
 		)
 	)
+	(global_label "TS-"
+		(shape input)
+		(at 360.68 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38092339-ed18-4118-afde-b262412217b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 367.4147 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CANRX"
 		(shape input)
 		(at 140.97 55.88 180)
@@ -8583,28 +8605,6 @@
 		(uuid "304a6fc8-410b-41ac-90ac-11ffb7e7fbf4")
 		(property "Netclass" "precharge"
 			(at 219.71 177.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 227.33 186.69 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a4f0092-5991-4c17-b276-211e508d46c8")
-		(property "Netclass" "precharge"
-			(at 219.71 185.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12739,73 +12739,6 @@
 			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDS")
-		(at 360.68 97.79 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80da975e-dcf0-4d0a-88d8-b88e6eef1dae")
-		(property "Reference" "#PWR043"
-			(at 367.03 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDS"
-			(at 364.49 97.7899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 360.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 360.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
-			(at 360.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2449ce9f-a45b-47e3-aa3f-49f6db586727")
-		)
-		(instances
-			(project "pcc_v0.1"
-				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
-					(reference "#PWR043")
 					(unit 1)
 				)
 			)
