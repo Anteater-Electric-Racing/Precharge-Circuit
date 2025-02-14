@@ -6147,7 +6147,7 @@
 		(uuid "870c1e5f-7095-421f-99d0-a00f031ef078")
 	)
 	(no_connect
-		(at 261.62 212.09)
+		(at 271.78 213.36)
 		(uuid "89ad46b0-9b53-4b35-b937-281f047cdcae")
 	)
 	(no_connect
@@ -6436,7 +6436,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 226.06) (xy 265.43 226.06)
+			(xy 242.57 210.82) (xy 247.65 210.82)
 		)
 		(stroke
 			(width 0)
@@ -6536,7 +6536,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 228.6) (xy 265.43 228.6)
+			(xy 242.57 213.36) (xy 247.65 213.36)
 		)
 		(stroke
 			(width 0)
@@ -6706,7 +6706,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 226.06) (xy 226.06 226.06)
+			(xy 212.09 210.82) (xy 218.44 210.82)
 		)
 		(stroke
 			(width 0)
@@ -7016,7 +7016,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 228.6) (xy 226.06 228.6)
+			(xy 212.09 213.36) (xy 218.44 213.36)
 		)
 		(stroke
 			(width 0)
@@ -7632,7 +7632,7 @@
 	)
 	(text "IR+ Relay"
 		(exclude_from_sim no)
-		(at 215.646 218.948 0)
+		(at 208.026 203.708 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7682,7 +7682,7 @@
 	)
 	(text "IR- Relay"
 		(exclude_from_sim no)
-		(at 257.302 200.152 0)
+		(at 267.462 201.422 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7732,7 +7732,7 @@
 	)
 	(text "IR- Relay"
 		(exclude_from_sim no)
-		(at 256.286 219.202 0)
+		(at 238.506 203.962 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7825,7 +7825,7 @@
 	)
 	(global_label "IR+_GND"
 		(shape input)
-		(at 226.06 228.6 0)
+		(at 218.44 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7835,7 +7835,7 @@
 		)
 		(uuid "02e2f297-1702-489f-b9d2-90da3765f694")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.3305 228.6 0)
+			(at 229.7105 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7847,7 +7847,7 @@
 	)
 	(global_label "CANH"
 		(shape input)
-		(at 261.62 207.01 0)
+		(at 271.78 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7857,7 +7857,7 @@
 		)
 		(uuid "0461053c-91d6-442c-947f-87cb50bf4a4b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.6248 207.01 0)
+			(at 279.7848 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8265,7 +8265,7 @@
 	)
 	(global_label "Shutdown_in"
 		(shape input)
-		(at 226.06 226.06 0)
+		(at 218.44 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8275,7 +8275,7 @@
 		)
 		(uuid "a44a9789-edac-4389-bbf3-3a727b5c6561")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.7773 226.06 0)
+			(at 233.1573 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8331,7 +8331,7 @@
 	)
 	(global_label "Shutdown_in"
 		(shape input)
-		(at 265.43 226.06 0)
+		(at 247.65 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8341,7 +8341,7 @@
 		)
 		(uuid "ddf608a7-1fef-4c26-888d-4318e83099e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 280.1473 226.06 0)
+			(at 262.3673 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8441,7 +8441,7 @@
 	)
 	(global_label "CANL"
 		(shape input)
-		(at 261.62 209.55 0)
+		(at 271.78 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8451,7 +8451,7 @@
 		)
 		(uuid "e54bcac3-4201-4e92-aa89-9d282db37f3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.3224 209.55 0)
+			(at 279.4824 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8574,7 +8574,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 224.79 226.06 90)
+		(at 217.17 210.82 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8583,7 +8583,7 @@
 		)
 		(uuid "12510199-b81a-4643-aad6-1a85b7da7bba")
 		(property "Netclass" "power"
-			(at 222.25 225.3615 0)
+			(at 214.63 210.1215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8797,7 +8797,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 224.79 228.6 90)
+		(at 217.17 213.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8806,7 +8806,7 @@
 		)
 		(uuid "e26b8df6-207c-443f-bcfc-103a741cfa8e")
 		(property "Netclass" "power"
-			(at 222.25 227.9015 0)
+			(at 214.63 212.6615 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,7 +8886,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 265.43 226.06 90)
+		(at 247.65 210.82 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8895,7 +8895,7 @@
 		)
 		(uuid "fc95513a-321f-4e1e-9f97-945b1644cefc")
 		(property "Netclass" "power"
-			(at 262.89 225.3615 0)
+			(at 245.11 210.1215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8941,7 +8941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 125.73 0)
 			(effects
 				(font
@@ -9009,7 +9009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ682V/83053"
 			(at 330.2 111.76 0)
 			(effects
 				(font
@@ -9167,7 +9167,7 @@
 			(uuid "d01718e5-8cce-4dd7-9efa-843e2f2f5a22")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "#PWR031")
 					(unit 1)
@@ -9366,7 +9366,7 @@
 			(uuid "eeeacec2-dfd2-4108-8fc1-9f96d7ff6c20")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "K1")
 					(unit 1)
@@ -9411,7 +9411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-6AEB60R4V/2025554"
 			(at 182.88 59.69 0)
 			(effects
 				(font
@@ -9479,7 +9479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ104V/83110"
 			(at 340.36 50.8 0)
 			(effects
 				(font
@@ -9548,7 +9548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673"
 			(at 316.23 137.16 0)
 			(effects
 				(font
@@ -9682,7 +9682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/1724470004/5116903"
 			(at 265.43 184.15 0)
 			(effects
 				(font
@@ -9822,7 +9822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/ohmite/HS100-500R-F/21846379"
 			(at 31.75 177.8 0)
 			(effects
 				(font
@@ -9847,7 +9847,7 @@
 			(uuid "79393f3f-8ee7-497b-859f-2a3535447a2f")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "R28")
 					(unit 1)
@@ -9892,7 +9892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ393V/83090"
 			(at 351.79 55.88 0)
 			(effects
 				(font
@@ -9962,7 +9962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 45.72 0)
 			(effects
 				(font
@@ -10429,7 +10429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 156.21 41.9099 0)
 			(effects
 				(font
@@ -10447,7 +10447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 152.4 40.64 0)
 			(effects
 				(font
@@ -10472,7 +10472,7 @@
 			(uuid "87c3f485-56b5-4753-a0ef-83266d4f7929")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "C10")
 					(unit 1)
@@ -10582,7 +10582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ104V/83110"
 			(at 290.83 69.85 0)
 			(effects
 				(font
@@ -10653,7 +10653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-6AEB60R4V/2025554"
 			(at 182.88 54.61 0)
 			(effects
 				(font
@@ -10723,7 +10723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 118.11 0)
 			(effects
 				(font
@@ -10925,7 +10925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 38.1 0)
 			(effects
 				(font
@@ -10995,7 +10995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 330.2 72.39 0)
 			(effects
 				(font
@@ -11045,7 +11045,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7nF"
+		(property "Value" "4.7n"
 			(at 193.04 53.594 90)
 			(effects
 				(font
@@ -11062,7 +11062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B472KDCNNNC/3888183"
 			(at 191.77 57.15 0)
 			(effects
 				(font
@@ -11197,7 +11197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ104V/83110"
 			(at 290.83 134.62 0)
 			(effects
 				(font
@@ -11265,7 +11265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ123V/83066"
 			(at 283.21 58.42 0)
 			(effects
 				(font
@@ -11335,7 +11335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 351.79 102.87 0)
 			(effects
 				(font
@@ -11405,7 +11405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 330.2 137.16 0)
 			(effects
 				(font
@@ -11541,7 +11541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673"
 			(at 316.23 72.39 0)
 			(effects
 				(font
@@ -11676,7 +11676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JT47K0/1757842"
 			(at 283.21 64.77 0)
 			(effects
 				(font
@@ -11879,7 +11879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687"
 			(at 331.47 181.61 0)
 			(effects
 				(font
@@ -12014,7 +12014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "PCN-112D3MHZ_000"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/PCN-112D3MHZ-000/1128732?s=N4IgTCBcDaIAoGEByBaAjGsARAzAWQAkAtAfQAYKQBdAXyA"
 			(at 106.68 176.53 0)
 			(effects
 				(font
@@ -12046,7 +12046,7 @@
 			(uuid "b6d4d5ae-742b-4137-a089-db0447a839d1")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "K3")
 					(unit 1)
@@ -12092,7 +12092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "DMN63D8L-7"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/diodes-incorporated/DMN63D8L-7/5699705?s=N4IgTCBcDaICIFkByA2AzHAHAGQLQHYQBdAXyA"
 			(at 116.84 207.01 0)
 			(effects
 				(font
@@ -12121,7 +12121,7 @@
 			(uuid "45206038-f899-4603-8ba1-502534050980")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "U5")
 					(unit 1)
@@ -12198,7 +12198,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 214.63 228.6 180)
+		(at 207.01 213.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12207,7 +12207,7 @@
 		(fields_autoplaced yes)
 		(uuid "6efc3d26-d302-42a4-a933-a719b3640a64")
 		(property "Reference" "J3"
-			(at 215.265 220.98 0)
+			(at 207.645 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12215,7 +12215,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 215.265 223.52 0)
+			(at 207.645 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12223,7 +12223,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-02A2_2x01_P4.20mm_Vertical"
-			(at 214.63 228.6 0)
+			(at 207.01 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12231,8 +12231,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 214.63 228.6 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/1724470002/5116902"
+			(at 207.01 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12241,7 +12241,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 214.63 228.6 0)
+			(at 207.01 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12395,7 +12395,7 @@
 			(uuid "1f4024f7-1102-4751-b81e-8e8d2745585a")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "U9")
 					(unit 1)
@@ -12440,7 +12440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 110.49 0)
 			(effects
 				(font
@@ -12577,7 +12577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 53.34 0)
 			(effects
 				(font
@@ -12645,7 +12645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ682V/83053"
 			(at 330.2 46.99 0)
 			(effects
 				(font
@@ -12780,7 +12780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 322.58 137.16 0)
 			(effects
 				(font
@@ -12983,7 +12983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P06J100V/525195"
 			(at 143.51 55.88 0)
 			(effects
 				(font
@@ -13116,7 +13116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ104V/83110"
 			(at 340.36 115.57 0)
 			(effects
 				(font
@@ -13151,7 +13151,7 @@
 	)
 	(symbol
 		(lib_id "power:-3V3")
-		(at 261.62 214.63 270)
+		(at 271.78 215.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13160,7 +13160,7 @@
 		(fields_autoplaced yes)
 		(uuid "9afe0bad-c1e2-4964-86f1-fefb15ac5e83")
 		(property "Reference" "#PWR038"
-			(at 257.81 214.63 0)
+			(at 267.97 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13169,7 +13169,7 @@
 			)
 		)
 		(property "Value" "GLV-"
-			(at 265.43 214.6299 90)
+			(at 275.59 215.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13178,7 +13178,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 261.62 214.63 0)
+			(at 271.78 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13187,7 +13187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 214.63 0)
+			(at 271.78 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13196,7 +13196,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-3V3\""
-			(at 261.62 214.63 0)
+			(at 271.78 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13252,7 +13252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/texas-instruments/LM331N-NOPB/6213"
 			(at 308.61 118.11 0)
 			(effects
 				(font
@@ -13405,7 +13405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/1724470004/5116903"
 			(at 218.44 184.15 0)
 			(effects
 				(font
@@ -13481,7 +13481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ561V/89768"
 			(at 281.94 110.49 0)
 			(effects
 				(font
@@ -13617,7 +13617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687"
 			(at 290.83 129.54 0)
 			(effects
 				(font
@@ -13752,7 +13752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.ca/en/products/detail/ohmite/HS100-500R-F/21846379"
 			(at 41.91 177.8 0)
 			(effects
 				(font
@@ -13822,7 +13822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ152V/83022"
 			(at 250.19 48.26 0)
 			(effects
 				(font
@@ -13892,7 +13892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ152V/83022"
 			(at 250.19 113.03 0)
 			(effects
 				(font
@@ -14028,7 +14028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/sparkfun-electronics/DEV-15583/10384551"
 			(at 97.79 74.93 0)
 			(effects
 				(font
@@ -14219,7 +14219,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
-		(at 256.54 212.09 180)
+		(at 266.7 213.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14228,7 +14228,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbb4b57f-9116-4d5a-b28d-5a87c98ae894")
 		(property "Reference" "J7"
-			(at 257.175 201.93 0)
+			(at 267.335 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14236,7 +14236,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Socket"
-			(at 257.175 204.47 0)
+			(at 267.335 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14244,7 +14244,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-04A2_2x02_P4.20mm_Vertical"
-			(at 256.54 212.09 0)
+			(at 266.7 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14252,8 +14252,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 256.54 212.09 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/1724470004/5116903"
+			(at 266.7 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14262,7 +14262,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 256.54 212.09 0)
+			(at 266.7 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14283,7 +14283,7 @@
 			(uuid "d98baa11-854c-4acb-89f0-32f5dbfe6ce8")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "J7")
 					(unit 1)
@@ -14462,7 +14462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ561V/89768"
 			(at 281.94 45.72 0)
 			(effects
 				(font
@@ -14785,7 +14785,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 255.27 228.6 180)
+		(at 237.49 213.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14794,7 +14794,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1fe84fb-fafe-4aae-94bd-ce05957c9587")
 		(property "Reference" "J8"
-			(at 255.905 220.98 0)
+			(at 238.125 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14802,7 +14802,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Socket"
-			(at 255.905 223.52 0)
+			(at 238.125 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14810,7 +14810,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-02A2_2x01_P4.20mm_Vertical"
-			(at 255.27 228.6 0)
+			(at 237.49 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14818,8 +14818,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 255.27 228.6 0)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/1724470002/5116902"
+			(at 237.49 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14828,7 +14828,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 255.27 228.6 0)
+			(at 237.49 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14887,7 +14887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ393V/83090"
 			(at 351.79 120.65 0)
 			(effects
 				(font
@@ -14955,7 +14955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ123V/83066"
 			(at 283.21 123.19 0)
 			(effects
 				(font
@@ -15090,7 +15090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/mean-well-usa-inc/SPAN02A-12/7706967?s=N4IgTCBcDaIM4AcCGA7ADGJBaAjBAugL5A"
 			(at 316.23 173.99 0)
 			(effects
 				(font
@@ -15178,7 +15178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P06J100V/525195"
 			(at 153.67 63.5 0)
 			(effects
 				(font
@@ -15248,7 +15248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 60.96 0)
 			(effects
 				(font
@@ -15402,7 +15402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 351.79 38.1 0)
 			(effects
 				(font
@@ -15470,7 +15470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687"
 			(at 290.83 64.77 0)
 			(effects
 				(font
@@ -15641,7 +15641,7 @@
 	)
 	(symbol
 		(lib_id "power:-3V3")
-		(at 265.43 228.6 270)
+		(at 247.65 213.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15650,7 +15650,7 @@
 		(fields_autoplaced yes)
 		(uuid "ddff636c-4963-467e-a5b1-b6c9c2811937")
 		(property "Reference" "#PWR033"
-			(at 261.62 228.6 0)
+			(at 243.84 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15659,7 +15659,7 @@
 			)
 		)
 		(property "Value" "GLV-"
-			(at 269.24 228.5999 90)
+			(at 251.46 213.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15668,7 +15668,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 228.6 0)
+			(at 247.65 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15677,7 +15677,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 228.6 0)
+			(at 247.65 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15686,7 +15686,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-3V3\""
-			(at 265.43 228.6 0)
+			(at 247.65 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16011,7 +16011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/texas-instruments/LM331N-NOPB/6213"
 			(at 308.61 53.34 0)
 			(effects
 				(font
@@ -16246,7 +16246,7 @@
 			(uuid "a19626c8-281e-40b7-91de-09c9b2cb184f")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "K2")
 					(unit 1)
@@ -16289,7 +16289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/110-44-628-41-001000/947065"
 			(at 162.56 119.38 0)
 			(effects
 				(font
@@ -16392,7 +16392,7 @@
 			(uuid "54ee7482-f223-468d-8b4a-2b7d0e55ac6a")
 		)
 		(instances
-			(project ""
+			(project "pcc_v0.1"
 				(path "/cd50b4df-2796-417a-bb78-7e5b371bc4af"
 					(reference "J4")
 					(unit 1)
@@ -16437,7 +16437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874"
 			(at 322.58 72.39 0)
 			(effects
 				(font
@@ -16573,7 +16573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-P06J100V/525195"
 			(at 143.51 53.34 0)
 			(effects
 				(font
@@ -16641,7 +16641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805JT47K0/1757842"
 			(at 283.21 129.54 0)
 			(effects
 				(font
@@ -16711,7 +16711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ514V/83144"
 			(at 358.14 102.87 0)
 			(effects
 				(font
