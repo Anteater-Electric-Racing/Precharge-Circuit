@@ -530,7 +530,7 @@
       "IR+_12V": "power",
       "IR+_GND": "power",
       "Net-(R28-Pad2)": "precharge",
-      "Shutdown_in": "precharge",
+      "Shutdown_in": "power",
       "TS+": "precharge",
       "TS-": "precharge",
       "Vin_Accu": "precharge"
