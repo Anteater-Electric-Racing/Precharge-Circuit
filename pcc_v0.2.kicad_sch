@@ -8799,7 +8799,7 @@
 			)
 		)
 	)
-	(global_label "TS-"
+	(global_label "TS+"
 		(shape input)
 		(at 377.19 100.33 0)
 		(fields_autoplaced yes)
@@ -8975,7 +8975,7 @@
 			)
 		)
 	)
-	(global_label "TS+"
+	(global_label "TS-"
 		(shape input)
 		(at 228.6 179.07 0)
 		(fields_autoplaced yes)
@@ -8997,7 +8997,7 @@
 			)
 		)
 	)
-	(global_label "TS-"
+	(global_label "TS+"
 		(shape input)
 		(at 228.6 181.61 0)
 		(fields_autoplaced yes)
